@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 70px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img {
+    padding-top: 40px;
+    width: 200px;
+    height: 250px;
+}
+
+.square {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+}
+
+.email {
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+.password {
+    padding-top: 20px;
+}
+
+.button {
+    padding-top: 5px;
+}
